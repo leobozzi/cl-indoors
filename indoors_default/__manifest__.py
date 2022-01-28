@@ -18,7 +18,7 @@
 #
 # -----------------------------------------------------------------------------------
 {
-    'name': 'indoors', 
+    'name': 'indoors',
     'version': '15.0.1.0.0',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
@@ -102,7 +102,7 @@
         # 'web_search_with_and',
         # 'web_advanced_search',
         # 'auto_backup',
-        # 'mass_editing',
+        'mass_editing',
         # 'intero_reload_form',
         # 'web_company_color',
         # 'backend_theme_v13',
