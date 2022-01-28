@@ -102,7 +102,7 @@
         # 'web_search_with_and',
         # 'web_advanced_search',
         # 'auto_backup',
-        'mass_editing',
+        # 'mass_editing',
         # 'intero_reload_form',
         # 'web_company_color',
         # 'backend_theme_v13',
