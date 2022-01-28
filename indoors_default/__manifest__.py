@@ -68,10 +68,10 @@
         # Localización
         # All
         'l10n_ar',
-        # 'l10n_ar_bank',
-        # 'l10n_ar_account_withholding',
-        # 'l10n_ar_sale',
-        # 'l10n_ar_stock',
+        'l10n_ar_bank',
+        'l10n_ar_account_withholding',
+        'l10n_ar_sale',
+        'l10n_ar_stock',
         # 'padron_afip',
         # 'report_qweb_pdf_watermark',
 
@@ -87,9 +87,9 @@
         # EE
         'l10n_ar_edi',
         'l10n_ar_reports',
-        # 'l10n_ar_account_tax_settlement',
-        # 'l10n_ar_edi_ux',
-        # 'l10n_ar_currency_update',
+        'l10n_ar_account_tax_settlement',
+        'l10n_ar_edi_ux',
+        'l10n_ar_currency_update',
 
         # HR
         # 'hr_timesheet',
