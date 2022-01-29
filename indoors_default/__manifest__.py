@@ -45,7 +45,7 @@
         # Contabilidad
         'account',
         # 'account_ux',
-        'account_check',
+        # 'account_check',
         # 'account_financial_report',
         # 'account_journal_lock_date',
         # 'account_bank_statement_import_txt_xlsx',
