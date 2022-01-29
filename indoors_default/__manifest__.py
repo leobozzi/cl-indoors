@@ -210,7 +210,7 @@
         #'https://github.com/leobozzi/odoo-addons-utils bit-odoo-addons-utils',
 
         # Enterprise
-        'https://github.com/odoo/enterprise.git'
+        'https://github.com/odoo/enterprise enterprise'
         # Odoomates
         # ==========================================================================================
         # 'https://github.com/odoomates/odooapps odoomates-odooapps',
