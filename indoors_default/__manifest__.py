@@ -209,8 +209,6 @@
         'https://github.com/leobozzi/cl-indoors.git',
         #'https://github.com/leobozzi/odoo-addons-utils bit-odoo-addons-utils',
 
-        # Enterprise
-        'https://github.com/odoo/enterprise enterprise'
         # Odoomates
         # ==========================================================================================
         # 'https://github.com/odoomates/odooapps odoomates-odooapps',
@@ -310,7 +308,7 @@
         # 'https://github.com/ingadhoc/website ingadhoc-website',
     ],
     'docker-images': [
-       'odoo lbozzi/odoo-docker-lb:15.0',
+       'odoo lbozzi/odoo-docker-lb:15.0e',
        'postgres postgres:13.5-alpine',
        'aeroo adhoc/aeroo-docs',
        'nginx nginx',
