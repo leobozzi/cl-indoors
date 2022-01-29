@@ -44,7 +44,7 @@
 
         # Contabilidad
         'account',
-        # 'account_ux',
+        'account_ux',
         # 'account_check',
         # 'account_financial_report',
         # 'account_journal_lock_date',
@@ -291,7 +291,7 @@
         # ADHOC
         # ==========================================================================================
         # 'https://github.com/ingadhoc/account-analytic ingadhoc-account-analytic',
-        # 'https://github.com/ingadhoc/account-financial-tools ingadhoc-account-financial-tools',  # noqa
+        'https://github.com/ingadhoc/account-financial-tools ingadhoc-account-financial-tools',  # noqa
         'https://github.com/ingadhoc/account-payment ingadhoc-account-payment',
         # 'https://github.com/ingadhoc/aeroo_reports ingadhoc-aeroo_reports',
         # 'https://github.com/ingadhoc/argentina-reporting ingadhoc-argentina-reporting',
