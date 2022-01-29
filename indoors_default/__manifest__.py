@@ -317,7 +317,7 @@
     ],
     'docker-images': [
        'odoo lbozzi/odoo-docker-lb:15.0',
-       'postgres postgres:13.5-alpine',
+       'postgres postgres:11.1-alpine',
        'aeroo adhoc/aeroo-docs',
        'nginx nginx',
     ]
