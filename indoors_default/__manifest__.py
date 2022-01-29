@@ -154,7 +154,7 @@
             'csv_internal_sep = ,',
 
         # disable loading demo data for modules to be installed
-            'without_demo = False',
+            'without_demo = True',
 
         # Comma-separated list of server-wide modules, there are modules loaded
         # automatically even if you do not create any database.
@@ -209,6 +209,8 @@
         'https://github.com/leobozzi/cl-indoors.git',
         #'https://github.com/leobozzi/odoo-addons-utils bit-odoo-addons-utils',
 
+        # Enterprise
+        'https://github.com/odoo/enterprise.git'
         # Odoomates
         # ==========================================================================================
         # 'https://github.com/odoomates/odooapps odoomates-odooapps',
