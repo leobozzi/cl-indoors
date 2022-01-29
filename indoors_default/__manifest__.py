@@ -283,8 +283,8 @@
         # 'https://github.com/OCA/stock-logistics-workflow oca-stock-logistics-workflow',
         # 'https://github.com/OCA/timesheet oca-timesheet',
         # 'https://github.com/OCA/vertical-association oca-vertical-association',
-        # 'https://github.com/OCA/web oca-web',
-        # 'https://github.com/OCA/website oca-website',
+        'https://github.com/OCA/web oca-web',
+        'https://github.com/OCA/website oca-website',
         # 'https://github.com/OCA/bank-payment oca-bank-payment',
         # 'https://github.com/OCA/account-analytic',
 
