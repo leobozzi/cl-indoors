@@ -161,7 +161,7 @@
             'csv_internal_sep = ,',
 
         # disable loading demo data for modules to be installed
-            'without_demo = False',
+            'without_demo = True',
 
         # Comma-separated list of server-wide modules, there are modules loaded
         # automatically even if you do not create any database.
