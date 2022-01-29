@@ -294,7 +294,7 @@
         'https://github.com/ingadhoc/account-financial-tools ingadhoc-account-financial-tools',  # noqa
         'https://github.com/ingadhoc/account-payment ingadhoc-account-payment',
         # 'https://github.com/ingadhoc/aeroo_reports ingadhoc-aeroo_reports',
-        'https://github.com/ingadhoc/argentina-reporting ingadhoc-argentina-reporting',
+        # 'https://github.com/ingadhoc/argentina-reporting ingadhoc-argentina-reporting',
         'https://github.com/ingadhoc/argentina-sale ingadhoc-argentina-sale',
         'https://github.com/ingadhoc/hr ingadhoc-hr',
         'https://github.com/ingadhoc/miscellaneous ingadhoc-miscellaneous',
