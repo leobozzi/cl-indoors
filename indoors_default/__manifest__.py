@@ -43,7 +43,7 @@
         # 'crm_stage_teams',
 
         # Contabilidad
-        # 'account',
+        'account',
         # 'account_ux',
         # 'account_check',
         # 'account_financial_report',
@@ -68,7 +68,7 @@
 
         # Localización
         # All
-        # 'l10n_ar',
+        'l10n_ar',
         # 'l10n_ar_bank',
         # 'l10n_ar_account_withholding',
         # 'l10n_ar_sale',
