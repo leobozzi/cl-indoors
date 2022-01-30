@@ -39,19 +39,23 @@
         'calendar',
         'website',
         'crm',
+        'mrp',
+        'quality_control',
+        'planning',
+        'stock_barcode',
         # 'sale_crm_ux',
         # 'crm_stage_teams',
 
         # Contabilidad
         'account',
-        # 'account_ux',
+        'account_ux',
         # 'account_check',
         # 'account_financial_report',
         # 'account_journal_lock_date',
         # 'account_bank_statement_import_txt_xlsx',
         # 'account_menu',
         # 'partner_statement',
-        # 'account_journal_security',
+        'account_journal_security',
         # 'account_netting',
         # 'om_account_accountant',
         # 'accounting_pdf_reports',
@@ -64,6 +68,7 @@
         # 'purchase_requisition',
         # 'purchase_requisition',
         # 'purchase_requisition_stock',
+        'base_currency_inverse_rate',
 
 
         # Localización
@@ -98,6 +103,18 @@
         # 'hr_timesheet_activity_begin_end',
         # 'hr_timesheet_analysis',
         # 'hr_timesheet_attendance',
+
+        # Fabricación
+        'quality_mrp',
+        'quality_mrp_workorder',
+        'mrp_workorder',
+        'mrp_account',
+        'mrp_account_enterprise',
+        'mrp_workorder_plm',
+        'quality_mrp_workorder_worksheet',
+        'sale_mrp',
+        'stock_barcode_mrp',
+        'stock_barcode_quality_control',
 
         # Utils
         # 'web_search_with_and',
